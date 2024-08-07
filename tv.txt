@@ -33,6 +33,7 @@
 凤凰电影,http://op.sev7.net:4022/rtp/239.254.201.1:5214
 
 重庆频道,#genre#
+重庆卫视,http://22725y284r.yicp.fun:9902/tsfile/live/0114_4.m3u8
 重庆卫视,http://wouu.net:9977/udp/239.93.1.107:5140
 重庆卫视,http://117.67.169.238:4022/rtp/238.1.78.31:6176
 重庆卫视,http://hlslive-tx-cdn.ysp.cctv.cn/sx/2024061103.m3u8
@@ -73,6 +74,7 @@
 重庆汽摩,http://n1.dddmmh.space:8088/udp/225.0.4.61:7980
 
 央视综合,#genre#
+CCTV1,http://22725y284r.yicp.fun:9902/tsfile/live/0001_1.m3u8
 CCTV1,http://www.lwfz.fun:8800/rtp/239.16.20.1:10010
 CCTV1,http://fangke.blueswords.com:9901/tsfile/live/0001_1.m3u8
 CCTV1,http://www.hiliu.myds.me:8088/rtp/239.254.96.96:8550
@@ -195,7 +197,6 @@ CCTV15,http://origin.lean.org.cn:4000/udp/@239.45.0.20:5140
 重温经典,http://php.jdshipin.com:8880/xsj.php?id=cwjd
 重温经典,http://xyt.186738613.xyz/lngd.php?id=636&Cf.m3u8
 重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
-重温经典,https://histar.zapi.us.kg/?id=cwjd
 
 卫视频道,#genre#
 安徽卫视,http://dassby.qqff.top:99/live/安徽卫视高清/index.m3u8
