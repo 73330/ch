@@ -5,6 +5,7 @@
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=4c91883c02c3d24856fee98a-167972102859014&wsIPSercert=18cec0348f8755a359db06ef244e1d1a&wsMonitor=0
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 
+凤凰中文,http://cdn9.1678520.xyz/xsj2.1.php?id=phtv-cn
 凤凰中文,http://wouu.net:9977/udp/239.93.0.162:2192
 凤凰中文,http://wouu.net:9977/rtp/239.93.0.162:2192Cf=cfss.cc
 凤凰中文,http://ayolee.com:5253/udp/239.93.0.162:2192
@@ -15,6 +16,7 @@
 凤凰中文,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8
 凤凰中文,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226308/index.m3u8
 
+凤凰资讯,http://cdn9.1678520.xyz/xsj2.1.php?id=phtv-info
 凤凰资讯,http://wouu.net:9977/rtp/239.93.0.118:2191Cf=cfss.cc
 凤凰资讯,http://wouu.net:9977/udp/239.93.1.4:2191
 凤凰资讯,http://116.162.6.191/2.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
@@ -29,7 +31,7 @@
 凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港,https://k44991.kylintv.tv/live/pxhkus_iphone.m3u8
 凤凰香港,https://epg.pw/stream/b3ab43b2415df405226d5b25f38e51432ca7d32b5a240e0aa1f3e201d181442f.m3u8
-凤凰电影,http://27.187.249.198:4300/rtp/239.254.201.1:5214
+凤凰电影,http://27.184.16.38:4022/rtp/239.254.201.1:5214
 凤凰电影,http://op.sev7.net:4022/rtp/239.254.201.1:5214
 
 重庆频道,#genre#
@@ -52,10 +54,8 @@
 重庆卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000018937/1.m3u8
 重庆卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001096/1.m3u8
 
+重庆影视,http://106.86.155.221:20005/rtp/235.254.198.180:7980
 重庆影视,http://ly123.fun:10000/rtp/235.254.198.180:7980
-重庆影视,http://14.105.22.109:20002/rtp/235.254.198.180:7980
-重庆影视,http://www.ly123.fun:10000/rtp/235.254.198.180:7980
-重庆影视,http://222.182.189.21:4022/rtp/235.254.198.180:7980
 重庆影视,http://kms.erfiy.com:8884/udp/225.0.4.192:7980
 重庆影视,http://kms.erfiy.com:8884/udp/225.0.4.62:7980
 重庆影视,http://n1.dddmmh.space:8088/udp/225.0.4.62:7980
@@ -75,9 +75,8 @@
 
 央视综合,#genre#
 CCTV1,http://22725y284r.yicp.fun:9902/tsfile/live/0001_1.m3u8
-CCTV1,http://www.lwfz.fun:8800/rtp/239.16.20.1:10010
-CCTV1,http://fangke.blueswords.com:9901/tsfile/live/0001_1.m3u8
-CCTV1,http://www.hiliu.myds.me:8088/rtp/239.254.96.96:8550
+CCTV1,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024078203.m3u8
+CCTV1,http://hy.baojihzjc.com:9001/rtp/239.112.205.59:5140
 CCTV1,http://live.dxms.top:80/dwy/mgak.php
 CCTV1,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8
 CCTV1,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000018602/1.m3u8
@@ -165,17 +164,14 @@ CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV13,http://origin.lean.org.cn:4000/udp/@239.45.0.19:5140
 CCTV15,http://origin.lean.org.cn:4000/udp/@239.45.0.20:5140
-女性时尚,http://www.yao87.com:4022/udp/239.76.254.55:9000
-女性时尚,http://enlen.vip:4022/udp/239.200.200.100:8084
+女性时尚,http://60.10.135.181:555/rtp/239.253.92.144:6114
 女性时尚,http://nas.hssvm.com:8888/udp/225.1.2.172:5002
 女性时尚,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
 风云音乐,http://nas.hssvm.com:8888/udp/225.1.2.176:5002
 风云音乐,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
 风云音乐,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
-
-生态环境,http://1.70.33.75:8083/udp/239.1.1.110:8110
+生态环境,http://60.10.135.181:555/rtp/239.253.93.245:6423
 生态环境,http://183.185.228.90:8083/rtp/226.0.2.120:8872
-生态环境,http://113.138.134.194:8001/rtp/239.111.205.60:5140
 生态环境,http://nas.hssvm.com:8888/udp/225.1.2.201:5002
 生态环境,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001320/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 中国天气,http://171.119.204.140:6000/rtp/226.0.2.103:8736
@@ -196,7 +192,7 @@ CCTV15,http://origin.lean.org.cn:4000/udp/@239.45.0.20:5140
 重温经典,http://cdn9.1678520.xyz/xsj2.1.php?id=cwjd
 重温经典,http://php.jdshipin.com:8880/xsj.php?id=cwjd
 重温经典,http://xyt.186738613.xyz/lngd.php?id=636&Cf.m3u8
-重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
+重温经典,https://histar.zapi.us.kg/?id=cwjd
 
 卫视频道,#genre#
 安徽卫视,http://dassby.qqff.top:99/live/安徽卫视高清/index.m3u8
@@ -751,15 +747,15 @@ iHOT爱动漫,http://[2409:8087:5e08:24::12]:6610/000000001000/20000000040000000
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
 
 MV歌曲,#genre#
-次真降措-我从亚丁来,http://shh4cve8a.hn-bkt.clouddn.com/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E6%88%91%E4%BB%8E%E4%BA%9A%E4%B8%81%E6%9D%A5%20.mp4#https://github.moeyy.xyz/https://github.com/73330/ch/blob/main/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E6%88%91%E4%BB%8E%E4%BA%9A%E4%B8%81%E6%9D%A5%20.mp4#file:///C:/Users/Administrator/OneDrive/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E6%88%91%E4%BB%8E%E4%BA%9A%E4%B8%81%E6%9D%A5%20.mkv
-次真降措-牧人之歌 ,http://shh4cve8a.hn-bkt.clouddn.com/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E7%89%A7%E4%BA%BA%E4%B9%8B%E6%AD%8C%20.mkv#https://github.moeyy.xyz/https://github.com/73330/ch/blob/main/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E7%89%A7%E4%BA%BA%E4%B9%8B%E6%AD%8C%20.mkv#file:///C:/Users/Administrator/OneDrive/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E7%89%A7%E4%BA%BA%E4%B9%8B%E6%AD%8C%20.mkv
-梦之旅-月光小夜曲,http://shh4cve8a.hn-bkt.clouddn.com/%E6%A2%A6%E4%B9%8B%E6%97%85-%E6%9C%88%E5%85%89%E5%B0%8F%E5%A4%9C%E6%9B%B2.mp4#https://github.moeyy.xyz/https://github.com/73330/ch/blob/main/%E6%A2%A6%E4%B9%8B%E6%97%85-%E6%9C%88%E5%85%89%E5%B0%8F%E5%A4%9C%E6%9B%B2.mp4#file:///C:/Users/Administrator/OneDrive/%E6%A2%A6%E4%B9%8B%E6%97%85-%E6%9C%88%E5%85%89%E5%B0%8F%E5%A4%9C%E6%9B%B2.mkv
-梦之旅-彩云追月,http://shh4cve8a.hn-bkt.clouddn.com/%E6%A2%A6%E4%B9%8B%E6%97%85-%E5%BD%A9%E4%BA%91%E8%BF%BD%E6%9C%88mp4#https://github.moeyy.xyz/https://github.com/73330/ch/blob/main/%E6%A2%A6%E4%B9%8B%E6%97%85-%E5%BD%A9%E4%BA%91%E8%BF%BD%E6%9C%88mp4#file:///C:/Users/Administrator/OneDrive/%E6%A2%A6%E4%B9%8B%E6%97%85-%E5%BD%A9%E4%BA%91%E8%BF%BD%E6%9C%88.mkv
-广州交响乐团-昨夜星辰,http://shh4cve8a.hn-bkt.clouddn.com/%E5%B9%BF%E5%B7%9E%E4%BA%A4%E5%93%8D%E4%B9%90%E5%9B%A2-%E6%98%A8%E5%A4%9C%E6%98%9F%E8%BE%B0.mp4#file:///C:/Users/Administrator/OneDrive/%E5%B9%BF%E5%B7%9E%E4%BA%A4%E5%93%8D%E4%B9%90%E5%9B%A2-%E6%98%A8%E5%A4%9C%E6%98%9F%E8%BE%B0.mkv
-中国人民志愿军战歌,http://shh4cve8a.hn-bkt.clouddn.com/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%BF%97%E6%84%BF%E5%86%9B%E6%88%98%E6%AD%8C.mp4#https://github.moeyy.xyz/https://github.com/73330/ch/blob/main/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%BF%97%E6%84%BF%E5%86%9B%E6%88%98%E6%AD%8C.mp4#file:///C:/Users/Administrator/OneDrive/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%BF%97%E6%84%BF%E5%86%9B%E6%88%98%E6%AD%8C.mp4
-齐峰-我和草原有个约定,http://shh4cve8a.hn-bkt.clouddn.com/%E9%BD%90%E5%B3%B0-%E6%88%91%E5%92%8C%E8%8D%89%E5%8E%9F%E6%9C%89%E4%B8%AA%E7%BA%A6%E5%AE%9A.mp4#https://github.moeyy.xyz/https://github.com/73330/ch/blob/main/%E9%BD%90%E5%B3%B0-%E6%88%91%E5%92%8C%E8%8D%89%E5%8E%9F%E6%9C%89%E4%B8%AA%E7%BA%A6%E5%AE%9A.mp4#file:///C:/Users/Administrator/OneDrive/%E9%BD%90%E5%B3%B0-%E6%88%91%E5%92%8C%E8%8D%89%E5%8E%9F%E6%9C%89%E4%B8%AA%E7%BA%A6%E5%AE%9A.mp4
-郑少秋-摘下满天星,http://shh4cve8a.hn-bkt.clouddn.com/%E9%83%91%E5%B0%91%E7%A7%8B-%E6%91%98%E4%B8%8B%E6%BB%A1%E5%A4%A9%E6%98%9F_mp4#https://github.moeyy.xyz/https://github.com/73330/ch/blob/main/%E9%83%91%E5%B0%91%E7%A7%8B-%E6%91%98%E4%B8%8B%E6%BB%A1%E5%A4%A9%E6%98%9F_mp4#file:///C:/Users/Administrator/OneDrive/%E9%83%91%E5%B0%91%E7%A7%8B-%E6%91%98%E4%B8%8B%E6%BB%A1%E5%A4%A9%E6%98%9F.mp4
-次真降措 - 圣洁亚丁,http://shh4cve8a.hn-bkt.clouddn.com/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA%20-%20%E5%9C%A3%E6%B4%81%E4%BA%9A%E4%B8%81.mkv#https://github.moeyy.xyz/https://github.com/73330/ch/blob/main/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA%20-%20%E5%9C%A3%E6%B4%81%E4%BA%9A%E4%B8%81.mkv#file:///C:/Users/Administrator/OneDrive/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA%20-%20%E5%9C%A3%E6%B4%81%E4%BA%9A%E4%B8%81.mkv
-次真降措 - 位置,http://shh4cve8a.hn-bkt.clouddn.com/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA%20-%20%E4%BD%8D%E7%BD%AE%20.mkv#https://github.moeyy.xyz/https://github.com/73330/ch/blob/main/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA%20-%20%E4%BD%8D%E7%BD%AE%20.mkv#file:///C:/Users/Administrator/OneDrive/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA%20-%20%E4%BD%8D%E7%BD%AE%20.mkv
-次真降措 - 爱在亚丁,http://shh4cve8a.hn-bkt.clouddn.com/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA%20-%20%E7%88%B1%E5%9C%A8%E4%BA%9A%E4%B8%81.mkv#https://github.moeyy.xyz/https://github.com/73330/ch/blob/main/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA%20-%20%E7%88%B1%E5%9C%A8%E4%BA%9A%E4%B8%81.mkv#file:///C:/Users/Administrator/OneDrive/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA%20-%20%E7%88%B1%E5%9C%A8%E4%BA%9A%E4%B8%81.mkv
-次真降措-爱的呼唤,http://shh4cve8a.hn-bkt.clouddn.com/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E7%88%B1%E7%9A%84%E5%91%BC%E5%94%A4.mkv#https://github.moeyy.xyz/https://github.com/73330/ch/blob/main/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E7%88%B1%E7%9A%84%E5%91%BC%E5%94%A4.mkv#file:///C:/Users/Administrator/OneDrive/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E7%88%B1%E7%9A%84%E5%91%BC%E5%94%A4.mkv
+次真降措-我从亚丁来,http://shh4cve8a.hn-bkt.clouddn.com/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E6%88%91%E4%BB%8E%E4%BA%9A%E4%B8%81%E6%9D%A5%20.mp4#https://github.moeyy.xyz/https://github.com/73330/ch/blob/main/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E6%88%91%E4%BB%8E%E4%BA%9A%E4%B8%81%E6%9D%A5%20.mp4#https://objectstorageapi.bja.sealos.run/dzhxab2u-tv/次真降措-我从亚丁来 .mp4
+次真降措-牧人之歌 ,http://shh4cve8a.hn-bkt.clouddn.com/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E7%89%A7%E4%BA%BA%E4%B9%8B%E6%AD%8C%20.mkv#https://github.moeyy.xyz/https://github.com/73330/ch/blob/main/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E7%89%A7%E4%BA%BA%E4%B9%8B%E6%AD%8C%20.mkv#https://objectstorageapi.bja.sealos.run/dzhxab2u-tv/次真降措-牧人之歌 .mkv
+梦之旅-月光小夜曲,http://shh4cve8a.hn-bkt.clouddn.com/%E6%A2%A6%E4%B9%8B%E6%97%85-%E6%9C%88%E5%85%89%E5%B0%8F%E5%A4%9C%E6%9B%B2.mp4#https://github.moeyy.xyz/https://github.com/73330/ch/blob/main/%E6%A2%A6%E4%B9%8B%E6%97%85-%E6%9C%88%E5%85%89%E5%B0%8F%E5%A4%9C%E6%9B%B2.mp4#https://objectstorageapi.bja.sealos.run/dzhxab2u-tv/梦之旅-月光小夜曲.mp4
+梦之旅-彩云追月,http://shh4cve8a.hn-bkt.clouddn.com/%E6%A2%A6%E4%B9%8B%E6%97%85-%E5%BD%A9%E4%BA%91%E8%BF%BD%E6%9C%88mp4#https://github.moeyy.xyz/https://github.com/73330/ch/blob/main/%E6%A2%A6%E4%B9%8B%E6%97%85-%E5%BD%A9%E4%BA%91%E8%BF%BD%E6%9C%88mp4#https://objectstorageapi.bja.sealos.run/dzhxab2u-tv/梦之旅-彩云追月mp4
+广州交响乐团-昨夜星辰,http://shh4cve8a.hn-bkt.clouddn.com/%E5%B9%BF%E5%B7%9E%E4%BA%A4%E5%93%8D%E4%B9%90%E5%9B%A2-%E6%98%A8%E5%A4%9C%E6%98%9F%E8%BE%B0.mp4#https://objectstorageapi.bja.sealos.run/dzhxab2u-tv/广州交响乐团-昨夜星辰.mp4
+中国人民志愿军战歌,http://shh4cve8a.hn-bkt.clouddn.com/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%BF%97%E6%84%BF%E5%86%9B%E6%88%98%E6%AD%8C.mp4#https://github.moeyy.xyz/https://github.com/73330/ch/blob/main/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%BF%97%E6%84%BF%E5%86%9B%E6%88%98%E6%AD%8C.mp4#https://objectstorageapi.bja.sealos.run/dzhxab2u-tv/中国人民志愿军战歌.mp4
+齐峰-我和草原有个约定,http://shh4cve8a.hn-bkt.clouddn.com/%E9%BD%90%E5%B3%B0-%E6%88%91%E5%92%8C%E8%8D%89%E5%8E%9F%E6%9C%89%E4%B8%AA%E7%BA%A6%E5%AE%9A.mp4#https://github.moeyy.xyz/https://github.com/73330/ch/blob/main/%E9%BD%90%E5%B3%B0-%E6%88%91%E5%92%8C%E8%8D%89%E5%8E%9F%E6%9C%89%E4%B8%AA%E7%BA%A6%E5%AE%9A.mp4#https://objectstorageapi.bja.sealos.run/dzhxab2u-tv/齐峰-我和草原有个约定.mp4
+郑少秋-摘下满天星,http://shh4cve8a.hn-bkt.clouddn.com/%E9%83%91%E5%B0%91%E7%A7%8B-%E6%91%98%E4%B8%8B%E6%BB%A1%E5%A4%A9%E6%98%9F_mp4#https://github.moeyy.xyz/https://github.com/73330/ch/blob/main/%E9%83%91%E5%B0%91%E7%A7%8B-%E6%91%98%E4%B8%8B%E6%BB%A1%E5%A4%A9%E6%98%9F_mp4#https://objectstorageapi.bja.sealos.run/dzhxab2u-tv/郑少秋-摘下满天星_mp4
+次真降措 - 圣洁亚丁,http://shh4cve8a.hn-bkt.clouddn.com/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA%20-%20%E5%9C%A3%E6%B4%81%E4%BA%9A%E4%B8%81.mkv#https://github.moeyy.xyz/https://github.com/73330/ch/blob/main/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA%20-%20%E5%9C%A3%E6%B4%81%E4%BA%9A%E4%B8%81.mkv#https://objectstorageapi.bja.sealos.run/dzhxab2u-tv/次真降措 - 圣洁亚丁.mkv
+次真降措 - 位置,http://shh4cve8a.hn-bkt.clouddn.com/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA%20-%20%E4%BD%8D%E7%BD%AE%20.mkv#https://github.moeyy.xyz/https://github.com/73330/ch/blob/main/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA%20-%20%E4%BD%8D%E7%BD%AE%20.mkv#https://objectstorageapi.bja.sealos.run/dzhxab2u-tv/次真降措 - 位置 .mkv
+次真降措 - 爱在亚丁,http://shh4cve8a.hn-bkt.clouddn.com/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA%20-%20%E7%88%B1%E5%9C%A8%E4%BA%9A%E4%B8%81.mkv#https://github.moeyy.xyz/https://github.com/73330/ch/blob/main/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA%20-%20%E7%88%B1%E5%9C%A8%E4%BA%9A%E4%B8%81.mkv#https://objectstorageapi.bja.sealos.run/dzhxab2u-tv/次真降措 - 爱在亚丁.mkv
+次真降措-爱的呼唤,http://shh4cve8a.hn-bkt.clouddn.com/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E7%88%B1%E7%9A%84%E5%91%BC%E5%94%A4.mkv#https://github.moeyy.xyz/https://github.com/73330/ch/blob/main/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E7%88%B1%E7%9A%84%E5%91%BC%E5%94%A4.mkv#https://objectstorageapi.bja.sealos.run/dzhxab2u-tv/次真降措-爱的呼唤.mkv
