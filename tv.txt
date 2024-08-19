@@ -4,6 +4,7 @@
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=9d7959a08df9f49385e6201f-171033235696189&wsIPSercert=248675b454fce6f3c4d4d83b437d5764
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=4c91883c02c3d24856fee98a-167972102859014&wsIPSercert=18cec0348f8755a359db06ef244e1d1a&wsMonitor=0
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+凤凰中文,http://ayolee.com:5253/udp/239.93.0.162:2192
 凤凰中文,http://op.sev7.net:4022/rtp/239.254.201.2:5226
 凤凰中文,http://wouu.net:9977/rtp/239.93.0.162:2192Cf=cfss.cc
 凤凰中文,http://ayolee.com:5253/udp/239.93.0.162:2192
@@ -28,13 +29,15 @@
 凤凰香港,https://epg.pw/stream/b3ab43b2415df405226d5b25f38e51432ca7d32b5a240e0aa1f3e201d181442f.m3u8
 凤凰电影,http://op.sev7.net:4022/rtp/239.254.201.1:5214
 凤凰电影,http://27.190.24.244:11001/rtp/239.254.201.1:5214
+凤凰电影,http://117.114.153.18:8180/TV00000000000000000072@HHZT
 
 重庆频道,#genre#
-重庆卫视,http://www.17888.fun:10000/udp/239.45.1.84:5140
+重庆卫视,http://113.248.169.40:4022/rtp/235.254.196.249:1268
 重庆卫视,http://op.sev7.net:4022/rtp/239.254.200.203:6323
+重庆卫视,http://222.182.59.238:4022/rtp/235.254.196.249:1268
+重庆卫视,http://www.17888.fun:10000/udp/239.45.1.84:5140
 重庆卫视,http://nas.hssvm.com:8888/udp/225.1.1.155:5002
 重庆卫视,http://origin.lean.org.cn:4000/udp/239.45.1.84:5140
-重庆卫视,http://wouu.net:9977/udp/239.93.1.107:5140
 重庆卫视,http://origin.lean.org.cn:4000/udp/@239.45.1.84:5140
 重庆卫视,http://dassby.qqff.top:99/live/重庆卫视高清/index.m3u8
 重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
@@ -42,24 +45,30 @@
 重庆卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226409/index.m3u8
 重庆卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 重庆卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+重庆卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010218/1.m3u8
 重庆卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010053/1.m3u8
 重庆卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000025797/1.m3u8
 重庆卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000018937/1.m3u8
 重庆卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001096/1.m3u8
-重庆影视,http://113.251.226.247:7788/rtp/235.254.198.180:7980
+重庆影视,http://27.11.48.117:8009/udp/225.0.4.62:7980
+重庆影视,http://kms.erfiy.com:8884/udp/225.0.4.62:7980
+重庆影视,http://113.248.169.40:4022/rtp/235.254.198.180:7980
+重庆影视,http://222.182.59.238:4022/rtp/235.254.198.180:7980
+重庆影视,http://27.11.105.135:8009/udp/225.0.4.62:7980
 重庆影视,http://n1.dddmmh.space:8088/udp/225.0.4.62:7980
 重庆影视,http://n1.dddmmh.space:8088/udp/225.0.4.192:7980
 重庆新闻,http://kms.erfiy.com:8884/udp/225.0.4.188:7980
 重庆新闻,http://n1.dddmmh.space:8088/udp/225.0.4.188:7980
 重庆新闻,http://n1.dddmmh.space:8088/udp/225.0.4.59:7980
+重庆汽摩,http://113.251.226.247:7788/rtp/235.254.196.221:1156
 重庆汽摩,http://dassby.qqff.top:99/live/汽摩/index.m3u8
 重庆汽摩,http://nas.hssvm.com:8888/udp/225.1.1.205:5002
 重庆汽摩,http://op.sev7.net:4022/rtp/239.254.200.103:6252
 重庆汽摩,http://n1.dddmmh.space:8088/udp/225.0.4.61:7980
 
 央视综合,#genre#
-CCTV1,http://www.17888.fun:10000/udp/239.45.3.145:5140
 CCTV1,http://op.sev7.net:4022/rtp/239.254.200.45:8008
+CCTV1,http://www.17888.fun:10000/udp/239.45.3.145:5140
 CCTV1,http://summer-xa.icopylock.com:8888/rtp/239.112.205.59:5140
 CCTV1,http://origin.lean.org.cn:4000/udp/239.45.3.145:5140
 CCTV1,http://22725y284r.yicp.fun:9902/tsfile/live/0001_1.m3u8
@@ -147,23 +156,19 @@ CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV13,http://origin.lean.org.cn:4000/udp/@239.45.0.19:5140
 CCTV15,http://origin.lean.org.cn:4000/udp/@239.45.0.20:5140
-女性时尚,http://op.sev7.net:4022/rtp/239.254.200.110:6241
-女性时尚,http://183.184.31.13:8003/rtp/226.0.2.226:9720
+女性时尚,http://60.10.135.181:555/rtp/239.253.92.249:6103
+女性时尚,http://117.32.84.95:8021/rtp/239.111.205.72:5140
 女性时尚,http://60.10.135.181:555/rtp/239.253.92.144:6114
 女性时尚,http://nas.hssvm.com:8888/udp/225.1.2.172:5002
 风云音乐,http://nas.hssvm.com:8888/udp/225.1.2.176:5002
 风云音乐,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
-生态环境,http://summer-xa.icopylock.com:8888/rtp/239.111.205.60:5140
-生态环境,http://116.179.154.86:8003/rtp/226.0.2.120:8872
+生态环境,http://117.32.84.95:8021/rtp/239.111.205.60:5140
+生态环境,http://60.10.135.181:555/rtp/239.253.93.245:6423
 生态环境,http://171.125.90.37:6000/rtp/226.0.2.120:8872
-生态环境,http://183.184.31.13:8003/rtp/226.0.2.120:8872
-生态环境,http://183.184.30.252:8003/rtp/226.0.2.120:8872
 生态环境,http://60.10.135.181:555/rtp/239.253.93.245:6423
 生态环境,http://nas.hssvm.com:8888/udp/225.1.2.201:5002
 中国天气,http://nas.hssvm.com:8888/udp/225.1.2.119:5002
-中国天气,http://116.179.154.86:8003/rtp/226.0.2.103:8736
 中国天气,http://www.17888.fun:10000/udp/239.45.1.47:5140
-中国天气,http://183.184.30.252:8003/rtp/226.0.2.103:8736
 中国天气,http://origin.lean.org.cn:4000/udp/@239.45.1.47:5140
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 中国天气,http://183.184.31.13:8003/rtp/226.0.2.103:8736
@@ -171,13 +176,12 @@ CCTV15,http://origin.lean.org.cn:4000/udp/@239.45.0.20:5140
 音乐现场,http://114.241.219.152:11111/rtp/239.3.1.70:4120
 音乐现场,http://drive.mxmy.net:8888/rtp/239.3.1.70:4120
 音乐现场,http://noeypszbgd.cn.zzmd.fun:8888/rtp/239.3.1.70:4120
-音乐现场,http://bplwberp.zzmd.fun:8888/rtp/239.3.1.70:4120
 音乐现场,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.70:4120
 音乐现场,http://wouu.net:9977/udp/239.93.0.198:9044
 音乐现场,http://wg.mxmy.net:8888/rtp/239.3.1.70:4120
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-重温经典,http://php.jdshipin.com:8880/xsj.php?id=cwjd
 重温经典,http://xyt.186738613.xyz/lngd.php?id=636&Cf.m3u8
+重温经典,http://xyt.186738613.xyz/lngd.php?id=635&Cf.m3u8
 
 卫视频道,#genre#
 安徽卫视,http://dassby.qqff.top:99/live/安徽卫视高清/index.m3u8
@@ -360,7 +364,7 @@ rs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8$可回??
 快乐垂钓,http://guany.myds.me:25852/udp/233.50.200.123:5140
 四海钓鱼,http://op.sev7.net:4022/rtp/239.254.201.185:6363
 四海钓鱼,http://nas.hssvm.com:8888/udp/225.1.2.202:5002
-
+四海钓鱼,http://60.10.135.181:555/rtp/239.253.93.243:6421
 
 IPV6频道,#genre#
 CCTV1,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
@@ -513,7 +517,6 @@ CCTV14,http://n1.dddmmh.space:8088/udp/225.0.4.10:7980
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 卡酷少儿,http://nas.hssvm.com:8888/udp/225.1.1.58:5002
-
 卡酷少儿,http://n1.dddmmh.space:8088/udp/225.0.4.45:7980
 卡酷少儿,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 卡酷少儿,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
@@ -534,7 +537,6 @@ CCTV14,http://n1.dddmmh.space:8088/udp/225.0.4.10:7980
 动漫秀场,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001196/index.m3u8
 哈哈炫动,http://nas.hssvm.com:8888/udp/225.1.1.62:5002
 哈哈炫动,http://nas.hssvm.com:8888/udp/225.1.1.62:5002
-
 黑莓动画,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 黑莓动画,http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 优漫卡通,http://mail.petzhu.top:7000/rtp/239.254.201.203:7178
