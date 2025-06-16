@@ -150,7 +150,7 @@ HOY资讯台,webview://https://iptv345.com/?act=play&token=ec04628078b7405f3b7ab
 重庆卫视,http://vip.lqcc.xyz:35455/nptv/chongqing.m3u8
 重庆卫视,http://113.15.109.216:59901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
-重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
+重庆卫视,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600002531
 
 重庆影视,http://27.10.209.168:8010/udp/225.0.4.62:7980
 重庆影视,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=cqyingshiHD
@@ -347,18 +347,6 @@ CCTV17,http://xg.52sw.top/play/kzb/play.php?id=cctv17
 海南少儿,hybrid-webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=7&referPage=home
 海南自贸,hybrid-webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=1&referPage=home
 河北卫视,hybrid-webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0
-黑龙江卫视,video://https://www.hljtv.com/live/folder418/
-湖北卫视,video://https://news.hbtv.com.cn/app/tv/431
-江西卫视,video://https://www.jxntv.cn/live/
-宁夏卫视,video://https://www.nxtv.com.cn/tv/ws/
-青海卫视,video://https://www.qhbtv.com/new_index/live/folder2646/
-山东卫视,video://https://v.iqilu.com/live/sdtv/
-山西卫视,video://https://www.sxrtv.com/tv/index.shtml
-陕西卫视,video://http://live.snrtv.com/star
-东方卫视,video://https://live.kankanews.com/huikan?id=1
-新疆卫视,video://https://www.xjtvs.com.cn/column/tv/434?channelId=1
-云南卫视,video://https://www.yntv.cn/live.html
-浙江卫视,video://https://www.cztv.com/liveTV/101
 
 移动网络专区,#genre#
 CCTV1,http://39.134.67.108/PLTV/88888888/224/3221225816/1.m3u8$移动|回看
