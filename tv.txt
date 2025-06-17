@@ -152,15 +152,25 @@ HOY资讯台,webview://https://iptv345.com/?act=play&token=ec04628078b7405f3b7ab
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 重庆卫视,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600002531
 
-重庆影视,http://27.10.209.168:8010/udp/225.0.4.62:7980
-重庆影视,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=cqyingshiHD
+重庆卫视,http://fn.tmde.top:35455/nptv/chongqing.m3u8
+重庆卫视,http://1.wcnm.qzz.io:35455/nptv/chongqing.m3u8
+重庆卫视,http://123.133.163.32:9001/nptv/chongqing.m3u8
+重庆卫视,http://t.senseos.cn:9001/nptv/chongqing.m3u8
+重庆卫视,http://yuzhe.ltd:5555/udp/239.93.1.107:5140
+重庆卫视,http://vip.lqcc.xyz:35455/nptv/chongqing.m3u8
+重庆卫视,http://113.15.109.216:59901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
+重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
+
+重庆影视,http://27.10.212.233:8005/udp/225.0.4.62:7980
+重庆影视,http://27.11.63.229:8005/udp/225.0.4.62:7980
+重庆影视,http://125.80.223.240:5555/rtp/235.254.196.209:1108
 
 重庆新闻,http://8.138.7.223/tv/cbg2.php
-重庆新闻,hybrid-webview://https://sj.cbg.cn/wap/list/4918/1.html
-重庆新闻,hybrid-webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
-                   
-重庆汽摩,http://27.14.213.139:4022/udp/225.0.4.61:7980
-重庆汽摩,http://123.146.72.20:4022/udp/225.0.4.195:7980
+重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html
+重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
+重庆汽摩,http://27.10.212.233:8005/udp/225.0.4.61:7980
+重庆汽摩,http://125.80.223.240:5555/rtp/235.254.196.221:1156
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 重庆卫视,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=chongqingHD
 重庆新闻,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=CQTVNewsHD
@@ -834,8 +844,7 @@ CCTV女性时尚,hybrid-webview://https://iptv345.com/?act=play&token=d48a7358c7
 新疆卫视,hybrid-webview://https://www.xjtvs.com.cn/column/tv/434?channelId=1
 
 少儿频道,#genre#
-重庆少儿http://123.146.72.20:4022/udp/225.0.4.71:7980
-重庆少儿http://123.146.72.20:4022/udp/225.0.4.191:7980
+重庆少儿,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=cqseHD
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
